@@ -18,3 +18,7 @@
 ## Naming 
 # https://getbem.com/introduction/
 
+
+# Pattern
+https://www.magicpattern.design/tools/css-backgrounds
+
