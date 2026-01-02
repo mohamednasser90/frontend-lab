@@ -18,6 +18,7 @@
 ## Naming 
 # https://getbem.com/introduction/
 # https://www.joshwcomeau.com/
+# https://cubic-bezier.com/#.17,.67,.83,.67
 
 # Pattern
 https://www.magicpattern.design/tools/css-backgrounds
