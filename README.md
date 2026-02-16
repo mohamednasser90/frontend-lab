@@ -23,4 +23,7 @@
 # Pattern
 https://www.magicpattern.design/tools/css-backgrounds
 
+# JS Naming 
+https://www.syncfusion.com/blogs/post/top-10-javascript-naming-convention
+
 
