@@ -25,5 +25,7 @@ https://www.magicpattern.design/tools/css-backgrounds
 
 # JS Naming 
 https://www.syncfusion.com/blogs/post/top-10-javascript-naming-convention
-
-
+# JS Learning 
+https://javascript.info/types
+https://www.w3schools.com/js/js_datatypes.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Data_structures
